@@ -1,0 +1,8 @@
+crud\dao\PessoaDAOImpl.class
+crud\service\PessoaService.class
+crud\model\Pessoa.class
+crud\controllers\PessoaController.class
+crud\validation\ProdutoValidator.class
+crud\model\Produto.class
+crud\dao\PessoaDAO.class
+crud\service\PessoaServiceImpl.class
